@@ -1,6 +1,6 @@
 <h1 align="center">I'm Kumar Baibhav</h1>
 <h3 align="center">I'm a passionate Android and MERN developer</h3>
-<img align="center" alt="Coding" width="100%" height="580px" src="https://img.freepik.com/free-photo/hooded-hacker-sitting-front-computer-monitor-cybercrime-concept_1142-38965.jpg?t=st=1713732959~exp=1713736559~hmac=d89ec599d08f4fdfeb9462f6c2fb04f42559989f3aacf720c0dc9a4c0ba9f223&w=1060"/>
+<img align="center" alt="Coding" width="100%" height="580px" src="https://images.app.goo.gl/ViTcTC8MHYJhkRKcA"/>
 <br/>
 <h2>💫 About Me: </h2>
 I am a Computer Science pre-final year student. I am a passionate and dedicated Android Developer with a strong foundation in <br>Java. I have a knack for creating functional and seamless user experiences on the Android platform. In addition to my proficiency in <br>Java and XML, I have dipped my toes into the world of web development. This has equipped me with a broader understanding of <br>how different technologies can work together, enhancing my problem-solving skills and enabling me to bring more innovative <br>solutions to the table.
