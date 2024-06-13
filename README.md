@@ -5,7 +5,8 @@
 
 <br/>
 <h2>💫 About Me: </h2>
-I am a Computer Science pre-final year student. I am a passionate and dedicated Android Developer with a strong foundation in <br>Java. I have a knack for creating functional and seamless user experiences on the Android platform. In addition to my proficiency in <br>Java and XML, I have dipped my toes into the world of web development. This has equipped me with a broader understanding of <br>how different technologies can work together, enhancing my problem-solving skills and enabling me to bring more innovative <br>solutions to the table.
+I am Kumar Baibhav, a final year Computer Science student at Vellore Institute of Technology. I have a passion for crafting user-friendly applications. Possessing strong expertise in Android development in Java, Flutter development (Dart), and the MERN stack development (MongoDB, Express.js, React.js, Node.js). Eager to leverage these skills and enhance my probelm solving skills to contribute to a team environment and build innovative, intuitive applications that enhance user experience.
+
 
 
 ## 🌐 Socials:
