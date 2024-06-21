@@ -1,5 +1,5 @@
 <h1 align="center">I'm Kumar Baibhav</h1>
-<h3 align="center">I'm a passionate Android and MERN developer</h3>
+<h3 align="center">I'm a passionate Application and MERN developer</h3>
 
 <!-- <img align="center" alt="Coding" width="100%" height="580px" src="https://miro.medium.com/v2/resize:fit:1024/1*oCGbZ-7I2ZhimZk8aiZyXA.jpeg"/> -->
 
