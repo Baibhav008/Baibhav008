@@ -5,7 +5,7 @@
 
 <br/>
 <h2>💫 About Me: </h2>
-I am Kumar Baibhav, a final year Computer Science student at Vellore Institute of Technology. I have a passion for crafting user-friendly applications. Possessing strong expertise in Android development in Java, Flutter development (Dart), and the MERN stack development (MongoDB, Express.js, React.js, Node.js). Eager to leverage these skills and enhance my probelm solving skills to contribute to a team environment and build innovative, intuitive applications that enhance user experience.
+I am Kumar Baibhav, a final year Computer Science student at Vellore Institute of Technology. I have a passion for crafting user-friendly applications. Possessing strong expertise in Android development in Java, Flutter development (Dart), and the MERN stack development (MongoDB, Express.js, React.js, Node.js). Eager to leverage these skills and enhance my problem solving skills to contribute to a team environment and build innovative, intuitive applications that enhance user experience.
 
 
 
