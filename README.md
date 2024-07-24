@@ -11,7 +11,7 @@ I am Kumar Baibhav, a final year Computer Science student at Vellore Institute o
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumarbaibhav008) 
-<h4><a href="https://leetcode.com/u/Baibhav_008/" style="color: white; text-decoration: none; cursor: auto;">Leet Code</a></h4>
+<h4><a href="https://leetcode.com/u/Baibhav_008/" style="color: white; text-decoration: none; cursor: auto;">LEET CODE</a></h4>
 <h2>Download : <a href="https://drive.google.com/file/d/1txZAV8ayC9hbqh5PZ5TImHbFvTFsaoA9/view" style="color: white; text-decoration: none; cursor: auto;">My Resume</a></h2>
 
 # 💻 Tech Stack:
